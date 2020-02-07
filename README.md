@@ -1,2 +1,1 @@
-# Blog
-simple CRUD Application
+LARAVEL PROJECT
